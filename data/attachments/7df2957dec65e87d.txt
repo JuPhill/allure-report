@@ -1,0 +1,1 @@
+User role 'automationTestRole2' created with all 47 permissions enabled.

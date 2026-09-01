@@ -1,0 +1,2 @@
+captureCanvasAndSave: no visible canvas found on loop 1; skipping signature draw.
+captureCanvasAndSave: confirm/save button [au-target-id="180"] not visible on loop 1.

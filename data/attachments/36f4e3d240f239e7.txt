@@ -1,0 +1,4 @@
+Price list 'Default' = 150.00 confirmed.
+Price list 'Excludes TAX' = 150.00 confirmed.
+Price list 'Minimum Price List' = 100.00 confirmed.
+Price list 'Warning Price List' = 140.00 confirmed.

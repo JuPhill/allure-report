@@ -1,0 +1,4 @@
+Stock level 'Warehouse1' = 1000 confirmed.
+Stock level 'Warehouse2' = 2000 confirmed.
+Stock level 'Warehouse4' = 3000 confirmed.
+Stock level 'Warehouse5' = 4000 confirmed.
