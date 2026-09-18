@@ -1,0 +1,9 @@
+Deal group detail row confirmed: Product100 | Unit | 12/31/2030 | 5 | 1 | Importer
+Deal group detail row confirmed: Product100 | Unit | 12/31/2030 | 10 | 3 | Importer
+Deal group detail row confirmed: Product100 | Unit | 12/31/2030 | 5 | R 100.00 | Importer
+Deal group detail row confirmed: Product100 | Unit | 12/31/2030 | 10 | R 80.00 | Importer
+Deal group detail row confirmed: Product100 | Unit | 11/21/2016 | 12/31/2050 | 20 | R 135.00 | Importer
+Deal group detail row confirmed: Product100 | Unit | 11/20/2016 | 12/31/2050 | 15 | R 140.00 | Importer
+Deal group detail row confirmed: Product100 | Unit | 11/19/2016 | 12/31/2050 | 10 | R 144.00 | Importer
+Deal group detail row confirmed: Product100 | Unit | 11/18/2016 | 12/31/2050 | 5 | R 148.00 | Importer
+Deal group detail row confirmed: Product100 | Unit | 11/22/2016 | 12/31/2050 | 25 | R 130.00 | Importer

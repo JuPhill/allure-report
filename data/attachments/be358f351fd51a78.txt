@@ -1,0 +1,1 @@
+Order unit values verified: min=5, inner=10, outer=30, pallet=50
