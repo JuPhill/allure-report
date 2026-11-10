@@ -1,0 +1,2 @@
+Packaging options saved: {"innerLabel":"10","outerLabel":"30","palletLabel":"50","globalDefault":"Inner quantity"}
+Order unit labels verified: {"name":"Unit name","multiplier":"Multiplier","min":"Minimum order quantity","inner":"Inner/10 quantity","outer":"Outer/30 quantity","pallet":"Pallet/50 quantity"}
