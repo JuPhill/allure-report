@@ -1,0 +1,4 @@
+Deal group 'BuyFreeDealgroup1' has 4 products confirmed.
+Deal group 'BuyFreeDealgroup1' editable = true confirmed.
+Deal group 'Dealgroup1' has 5 products confirmed.
+Deal group 'Dealgroup1' editable = false confirmed.

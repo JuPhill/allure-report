@@ -1,0 +1,3 @@
+Packaging options saved: {"innerLabel":"","outerLabel":"","palletLabel":"","globalDefault":"Inner quantity"}
+Order unit labels verified: {"name":"Unit name","multiplier":"Multiplier","min":"Minimum order quantity","inner":"Inner quantity","outer":"Outer quantity","pallet":"Pallet quantity"}
+Cleanup: reset product5 minimum order quantity to blank.
